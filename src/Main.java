@@ -12,8 +12,16 @@ public class Main {
             // Press Maj+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
+            System.out.printf("Hello and welcome!Hello and welcome!");
+            System.out.printf("Hello and welcome!Hello and welcome!");
+            System.out.printf("Hello and welcome!Hello and welcome!");
+            System.out.printf("Hello and welcome!Hello and welcome!");
             // hi omar you gonna see my merge conflict
             // OKEY im gonna make conflict here brooo
+            // OKEY im gonna make conflict here brooo
+            // OKEY im gonna make conflict here brooo
+            System.out.printf("Hello and welcome!Hello and welcome!");
+            System.out.printf("Hello and welcome!Hello and welcome!");
         }
     }
 }
